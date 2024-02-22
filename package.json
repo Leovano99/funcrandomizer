@@ -1,0 +1,24 @@
+{
+  "name": "funcrandomizer",
+  "version": "1.0.0",
+  "description": "FunctionManager is a Node.js package that provides various utility functions and leverages the capabilities of the randomthinger package. It aims to simplify common tasks and enhance the functionality of your Node.js projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Leovano99/funcrandomizer.git"
+  },
+  "keywords": [
+    "random",
+    "function",
+    "generate",
+    "data"
+  ],
+  "author": "Leovano99",
+  "license": "MIT",
+  "dependencies": {
+    "randomthinger": "^2.1.0"
+  }
+}
